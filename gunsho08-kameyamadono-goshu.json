@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/kameyamadono-goshu-utaawase",
  "yomi": "かめやまどのごしゅおんうたあわせ",
  "category": "歌合",
- "description": null,
+ "description": {
+  "kind": "歌合（五題）",
+  "era": "文永2年（1265）",
+  "author": "未詳",
+  "desc": "亀山殿で催された五首の歌合。河月・野鹿・山紅葉・絶恋などの題で、良実・基平・隆親・通成・為氏・真観らが詠む。承暦の例に従って方人が詠吟するなど、作法を記す。"
+ },
  "editions": [
   {
    "pid": "1879502",
