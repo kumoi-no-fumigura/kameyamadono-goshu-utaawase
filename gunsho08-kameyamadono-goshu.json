@@ -22,11 +22,14 @@
    "url": "https://dl.ndl.go.jp/pid/1879502"
   }
  ],
- "status": "未校正",
+ "status": "下校正済み",
  "license": {
   "text": "CC0 1.0"
  },
- "translation": null,
+ "translation": {
+  "count": 7,
+  "note": "AI による現代語訳"
+ },
  "blocks": [
   {
    "id": "gunsho08-kameyamadono-goshu-0001",
@@ -1497,7 +1500,8 @@
   "chars": 12950,
   "poems": 97,
   "editions": 1,
-  "updated": "2026-11-05",
-  "updated_at": "2026-11-05T08:59:50+09:00"
+  "updated": "2026-11-06",
+  "updated_at": "2026-11-06T08:22:41+09:00",
+  "yaku": 7
  }
 }
